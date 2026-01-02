@@ -59,8 +59,6 @@ http://localhost:5000
 3. Use K-Means for segmentation  
 4. Use cluster labels to understand groups
 
-*(You can add more details from your notebook here.)*
-
 ---
 
 ## 🚀 Deployment
