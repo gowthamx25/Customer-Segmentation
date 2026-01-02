@@ -8,8 +8,7 @@ It includes data preprocessing, model logic, clustering, and a UI (Flask app) to
 ## 📌 Project Overview
 
 Customer segmentation divides a customer base into distinct groups based on similarities in data such as spending behavior, demographics, etc.  
-This helps businesses tailor marketing, improve customer experience, and make data-driven decisions. :contentReference[oaicite:1]{index=1}
-
+This helps businesses tailor marketing, improve customer experience, and make data-driven decisions.
 ---
 
 ## 🔧 Tech Stack
